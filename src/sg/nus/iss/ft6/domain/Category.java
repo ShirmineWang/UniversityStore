@@ -3,7 +3,9 @@ package sg.nus.iss.ft6.domain;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
+/*
+ * author:WangXuemin
+ */
 public class Category {
 	private String code;
 	private String name;
